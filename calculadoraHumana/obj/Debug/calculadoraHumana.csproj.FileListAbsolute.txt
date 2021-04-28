@@ -1,0 +1,18 @@
+C:\Users\PC\Desktop\calculadoraHumana\calculadoraHumana\bin\Debug\calculadoraHumana.exe.config
+C:\Users\PC\Desktop\calculadoraHumana\calculadoraHumana\bin\Debug\calculadoraHumana.exe
+C:\Users\PC\Desktop\calculadoraHumana\calculadoraHumana\bin\Debug\calculadoraHumana.pdb
+C:\Users\PC\Desktop\calculadoraHumana\calculadoraHumana\obj\Debug\calculadoraHumana.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\calculadoraHumana\calculadoraHumana\obj\Debug\calculadoraHumana.Form1.resources
+C:\Users\PC\Desktop\calculadoraHumana\calculadoraHumana\obj\Debug\calculadoraHumana.Properties.Resources.resources
+C:\Users\PC\Desktop\calculadoraHumana\calculadoraHumana\obj\Debug\calculadoraHumana.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\calculadoraHumana\calculadoraHumana\obj\Debug\calculadoraHumana.exe
+C:\Users\PC\Desktop\calculadoraHumana\calculadoraHumana\obj\Debug\calculadoraHumana.pdb
+C:\Users\PC\Desktop\Nueva carpeta\5to\calculadoraHumana\calculadoraHumana\bin\Debug\calculadoraHumana.exe.config
+C:\Users\PC\Desktop\Nueva carpeta\5to\calculadoraHumana\calculadoraHumana\obj\Debug\calculadoraHumana.exe
+C:\Users\PC\Desktop\Nueva carpeta\5to\calculadoraHumana\calculadoraHumana\obj\Debug\calculadoraHumana.pdb
+C:\Users\PC\Desktop\Nueva carpeta\5to\calculadoraHumana\calculadoraHumana\bin\Debug\calculadoraHumana.exe
+C:\Users\PC\Desktop\Nueva carpeta\5to\calculadoraHumana\calculadoraHumana\bin\Debug\calculadoraHumana.pdb
+C:\Users\PC\Desktop\Nueva carpeta\5to\calculadoraHumana\calculadoraHumana\obj\Debug\calculadoraHumana.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Nueva carpeta\5to\calculadoraHumana\calculadoraHumana\obj\Debug\calculadoraHumana.Form1.resources
+C:\Users\PC\Desktop\Nueva carpeta\5to\calculadoraHumana\calculadoraHumana\obj\Debug\calculadoraHumana.Properties.Resources.resources
+C:\Users\PC\Desktop\Nueva carpeta\5to\calculadoraHumana\calculadoraHumana\obj\Debug\calculadoraHumana.csproj.GenerateResource.Cache
